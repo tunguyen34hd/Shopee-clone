@@ -467,6 +467,7 @@
     box-shadow: 0 1px 3.125rem rgba(0, 0, 0, 0.2);
     display: none;
     animation: fadeIn ease-in 0.2s;
+    cursor: default;
 }
 
 .header__cart-list::after {
@@ -476,6 +477,7 @@
     top: -28px;
     border-width: 20px 22px;
     border-style: solid;
+    cursor: pointer;
     border-color: transparent transparent var(--white-color) transparent;
 }
 
