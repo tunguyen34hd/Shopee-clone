@@ -676,6 +676,7 @@
 
 .header__search-history-item:hover {
     background-color: #fafafa;
+    /* test */
 }
 
 .header__search-history-item a {
