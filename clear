@@ -1,0 +1,54 @@
+[33mcommit b8f6338008cc5cdf83a446db54800d30859486b6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Fri Mar 3 00:51:05 2023 +0700
+
+    wrong
+
+[33mcommit 6a056545b68f88eafb7b9b7a16d9c7bd1578b9e8[m
+Merge: d6916aa f8b8cbe
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Fri Mar 3 00:48:15 2023 +0700
+
+    Merge branch 'right-color'
+
+[33mcommit f8b8cbe065d415d078beea44a4b13448bc70a903[m
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Fri Mar 3 00:46:45 2023 +0700
+
+    fix
+
+[33mcommit d6916aa29c35fee52c978a053ac44076f7cbd753[m
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Fri Mar 3 00:18:57 2023 +0700
+
+    green
+
+[33mcommit 4b496e943fa015cf8717a90cceb6825ed2c9f3bb[m
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Fri Mar 3 00:07:44 2023 +0700
+
+    color
+
+[33mcommit 9876f5e428846238992aa928708e58b6ea3a251d[m
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Fri Mar 3 00:05:45 2023 +0700
+
+    continute
+
+[33mcommit 76bb05f4b082607af391cafdaaefde2c7132a3bd[m
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Thu Mar 2 17:17:08 2023 +0700
+
+    change color hover in history list
+
+[33mcommit f9f103d3fd1157f094f681992bcdebccc3ce9c7e[m
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Thu Mar 2 12:01:08 2023 +0700
+
+    add cursor
+
+[33mcommit 3d2751ce8ebb5bdd6e2f1e592b224ba5040043f3[m
+Author: tunguyen34hd <tunguyenhd01@gmail.com>
+Date:   Wed Mar 1 20:57:12 2023 +0700
+
+    first upload
