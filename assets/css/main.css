@@ -1012,10 +1012,29 @@
 }
 
 /* Product item */
+.home-product {
+    margin-bottom: 10px;
+}
+
+.home-product-item-link {
+    text-decoration: none;
+    display: block;
+}
+
 .home-product-item {
     position: relative;
     margin-top: 10px;
     background-color: var(--white-color);
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    transition: transform linear 0.1s;
+    will-change: transform;
+}
+
+.home-product-item:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.05);
 }
 
 .home-product-item__img {
