@@ -1222,3 +1222,7 @@ i.home-product-item__like-icon-fill {
     position: relative;
     top: -5px;
 }
+
+.home-product__pagination {
+    margin: 48px 0 32px;
+}
