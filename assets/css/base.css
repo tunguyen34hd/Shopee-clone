@@ -185,7 +185,7 @@ html {
     display: block;
 }
 
-.select-inpput__link {
+.select-input__link {
     font-size: 1.4rem;
     text-decoration: none;
     color: var(--text-color);
@@ -193,6 +193,6 @@ html {
     display: block;
 }
 
-.select-inpput__link:hover {
+.select-input__link:hover {
     color: var(--primary-color);
 }
